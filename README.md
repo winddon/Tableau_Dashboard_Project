@@ -2,7 +2,7 @@
 Dashboard of movie project
 
 Input file :
-****loadMovieDetailsDataset.txt****
+========loadMovieDetailsDataset.txt==========
 Json file format with 2000+ movie records with details on their profit and other profiling parameters
 Example of one record is as below:
 -----------------------------------------------------------------------------------------------------------------------
@@ -11,11 +11,11 @@ Example of one record is as below:
 
 Data Wrangling and cleaning is done using Python through anaconda notebook IDE.
 Wrangling file: 
-****Test1.ipynb****
+==========Test1.ipynb===============
 
 Please refer file for packages used and steps taken to extract the format as dataframe.
 Final excel sheet is extraccted as :
-****Final_Dataset.xlsx****
+==========Final_Dataset.xlsx=========
 
 The excel file is uploaded to tableau Public and visualizations are made and a dashboard is created to see trends and patterns to develop insights.
  
